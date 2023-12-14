@@ -9,7 +9,6 @@
             background: url('img6.jpg') center/cover fixed;
             color: #333;
         }
-
         header {
             background-color: #333;
             color: white;
